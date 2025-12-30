@@ -1,0 +1,5 @@
+{
+  "name": "VisionOCR - Pro Arabic/English Document Digitizer",
+  "description": "A sophisticated OCR application designed for professional document extraction, supporting Arabic and English with native table reconstruction and layout preservation using Gemini 3 Pro.",
+  "requestFramePermissions": []
+}
